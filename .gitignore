@@ -1,0 +1,8 @@
+**/env/
+**/__pycache__/
+pdfs/
+output/
+**/*.old/
+**/*.old
+**/*.bak/
+**/*.bak
